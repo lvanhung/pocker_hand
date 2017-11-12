@@ -58,8 +58,7 @@ class PockerHand
 		cards.join('')
 	end
 end
-
-
+# Add some examples for testing 
 pocker = PockerHand.new('S3C3D3H3H4')
 pocker.type_pocker_hand
 pocker = PockerHand.new('S4C4D4HTCT')
